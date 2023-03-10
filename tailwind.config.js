@@ -5,7 +5,7 @@ module.exports = {
         "./resources/**/*.js",
         "./resources/**/*.vue",
     ],
-  theme: {
+    theme: {
     extend: {},
   },
   plugins: [],
