@@ -37,7 +37,7 @@ This is a web app project that aims to clone ChatGPT, a large language model tra
 3. Wait for the response to appear in the output field.
 4. Use reset button to start a new chat.
 
-## Screenshot
+## Demo
 ![BrainClone in action](/brainclone_ss.png "BrainClone")
 
 ## Contributing
